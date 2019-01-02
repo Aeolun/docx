@@ -1,7 +1,7 @@
 // http://officeopenxml.com/WPparagraphProperties.php
-import {XmlComponent} from "file/xml-components";
-import {Border} from "./formatting/border";
-import {Shading} from "/file/paragraph/formatting/shading";
+import { XmlComponent } from "file/xml-components";
+import { Border } from "./formatting/border";
+import { Shading } from "./formatting/shading";
 
 export class ParagraphProperties extends XmlComponent {
     public readonly paragraphBorder: Border;

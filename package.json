@@ -21,7 +21,6 @@
     "ts-node": "ts-node"
   },
   "pre-commit": [
-    "style",
     "lint"
   ],
   "files": [
