@@ -1,6 +1,6 @@
 {
   "name": "docx",
-  "version": "4.4.2",
+  "version": "4.4.3",
   "description": "Generate .docx documents with JavaScript (formerly Office-Clippy)",
   "main": "build/index.js",
   "scripts": {
