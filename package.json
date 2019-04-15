@@ -18,8 +18,7 @@
     "style": "prettier -l \"src/**/*.ts\"",
     "style.fix": "npm run style -- --write",
     "fix-types": "node types-absolute-fixer.js",
-    "ts-node": "ts-node",
-    "postinstall": "npm run build"
+    "ts-node": "ts-node"
   },
   "pre-commit": [
     "lint"
